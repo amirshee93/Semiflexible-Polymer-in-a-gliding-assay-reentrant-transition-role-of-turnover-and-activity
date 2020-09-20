@@ -19,20 +19,16 @@ dist_turn_number_r00.5.tar.xz >>>>> r_0=0.5, The total bead numbers should be 12
 Data of the figures...
 ##########
 
-
-#############################
+#############
 fig3.tar.xz >> Fig. 3 Probability distribution functions of turn number.....
 
-
-#############################
+#############
 fig4.tar.xz >> Fig. 4 Phase diagram.....
 
-
-#############################
+#############
 fig5.tar.xz >> Fig. 5 The steady state turning number fluctuations.....
 
-
-#############################
+#############
 fig6.tar.xz >> Fig. 6 End-to-end distributions.....
 
 
