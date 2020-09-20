@@ -1,5 +1,5 @@
 # Semiflexible-Polymer-in-a-gliding-assay-reentrant-transition-role-of-turnover-and-activity
-Amir Shee, a,b‡ Nisha Gupta, c∧ Abhishek Chaudhuri, d† and Debasish Chaudhuri, a,b‡
+Amir Shee,‡ Nisha Gupta, Abhishek Chaudhuri, and Debasish Chaudhuri
 
 We presented the results in the paper with averaging over 20 different initial conditions. The folder named "ens*" where '*' denotes 0,1,...,19 for 20 different initial conditions. And the folder named "v*" where '*' denotes the free MPs velocity v_0 values 0,1,5,10,15,20,25,30,35,40,45,50,55,60,65,70,75,80,85,90,100.
 
@@ -28,13 +28,4 @@ fig5.tar.xz >> Fig. 5 The steady state turning number fluctuations.....
 fig6.tar.xz >> Fig. 6 End-to-end distributions.....
 
 
-a Institute of Physics, Sachivalaya Marg, Bhubaneswar 751005, India
-b Homi Bhabha National Institute, Anushaktinagar, Mumbai 400094, India
-c Department of Physics, Indian Institute of Technology Palakkad, Palakkad 678557,
-India
-d Indian Institute of Science Education and Research Mohali, Knowledge City, Sector
-81, SAS Nagar 140306, Punjab, India
 ‡ E-mail: amir@iopb.res.in
-∧ E-mail: gnisha@iitpkd.ac.in
-† E-mail: abhishek@iisermohali.ac.in
-∗ E-mail: debc@iopb.res.in
