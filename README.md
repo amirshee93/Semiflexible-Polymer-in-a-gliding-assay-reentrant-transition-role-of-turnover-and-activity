@@ -1,4 +1,5 @@
 # Semiflexible-Polymer-in-a-gliding-assay-reentrant-transition-role-of-turnover-and-activity
+Amir Shee, a,b‡ Nisha Gupta, c∧ Abhishek Chaudhuri, d† and Debasish Chaudhuri
 
 We presented the results in the paper with averaging over 20 different initial conditions. The folder named "ens*" where '*' denotes 0,1,...,19 for 20 different initial conditions. And the folder named "v*" where '*' denotes the free MPs velocity v_0 values 0,1,5,10,15,20,25,30,35,40,45,50,55,60,65,70,75,80,85,90,100.
 
