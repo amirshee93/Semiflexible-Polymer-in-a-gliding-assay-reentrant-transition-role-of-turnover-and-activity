@@ -6,24 +6,6 @@ dist_rg.tar.xz >>>>>>> Distribution of Rg squared for different velocity of the 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ##########
 Data of the figures...
 ##########
