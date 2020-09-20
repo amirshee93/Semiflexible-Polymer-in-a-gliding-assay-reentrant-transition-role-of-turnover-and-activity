@@ -1,5 +1,26 @@
 # Semiflexible-Polymer-in-a-gliding-assay-reentrant-transition-role-of-turnover-and-activity
 
+Dist_rg.tar.xz >>>>>>> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ##########
 Data of the figures...
