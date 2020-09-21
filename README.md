@@ -8,16 +8,19 @@ Total bead numbers N = 64, Total equilibrium length of the chain L=(N-1)*r_0=63 
 # dist_rg.tar.xz 
 >>>>> Distribution of Rg squared for different velocity of the MPs v_0 and different attachment-detachment ratio won/w0=0.5,1.0,5.0,10.0,20.0.
 
-dist_turn_number.tar.xz >>>>> Distribution of turn number for different velocity of the MPs v_0 and different attachment-detachment ratio won/w0=0.1,0.2,0.3,0.5,1.0,2.0,5.0,10.0,20.0.
+# dist_turn_number.tar.xz 
+>>>>> Distribution of turn number for different velocity of the MPs v_0 and different attachment-detachment ratio won/w0=0.1,0.2,0.3,0.5,1.0,2.0,5.0,10.0,20.0.
 
-dist_turn_number_r00.75.tar.xz >>>>> r_0=0.75, The total bead numbers should be 85 to keep L constant. Distribution of turn number for different velocity of the MPs v_0 with won/w0=1.0.
+# dist_turn_number_r00.75.tar.xz 
+>>>>> r_0=0.75, The total bead numbers should be 85 to keep L constant. Distribution of turn number for different velocity of the MPs v_0 with won/w0=1.0.
 
 
-dist_turn_number_r00.5.tar.xz >>>>> r_0=0.5, The total bead numbers should be 127 to keep L constant. Distribution of turn number for different velocity of the MPs v_0 with won/w0=1.0.
+# dist_turn_number_r00.5.tar.xz 
+>>>>> r_0=0.5, The total bead numbers should be 127 to keep L constant. Distribution of turn number for different velocity of the MPs v_0 with won/w0=1.0.
 
 
 ##########
-Data of the figures...
+# Data of the figures
 ##########
 
 #############
