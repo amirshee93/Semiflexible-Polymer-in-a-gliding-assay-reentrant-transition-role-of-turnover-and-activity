@@ -13,7 +13,7 @@ The sub folder "ens#" >>> '#' denotes 0, 1, ..., 19 for 20 different initial con
 
 The file name "turn_number_time_ens#_v$.d.gz" contains single column data set of turn number with time gap 0.000016.
 
-'$' denotes the free MPs velocity v_0 values 0, 1, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100.
+'$' denotes the free MPs velocity v_0*\tau_u/\sigma values 0, 1, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100.
 
 The constants in the simulations : \omega_{on}/\omega_{0} = 1.0, \sigma = 1.0.
 
