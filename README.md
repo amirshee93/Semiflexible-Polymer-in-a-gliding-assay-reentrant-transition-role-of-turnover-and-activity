@@ -18,5 +18,6 @@ The file name "turn_number_time_ens#_v$.d.gz" contains single column data set of
 The constants in the simulations : \omega_{on}/\omega_{0} = 1.0, \sigma = 1.0.
 
 
+For further details please contact ‡.
 
 ‡ E-mail: amir@iopb.res.in
