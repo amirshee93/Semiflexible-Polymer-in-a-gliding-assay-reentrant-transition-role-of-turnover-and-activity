@@ -1,7 +1,9 @@
-Equilibrium bond length r_0 = 1.0
+Equilibrium bond length r_0 = 1.0.
 
-Total length L = (N-1) r_0 where N = 64 is the total bead numbers.
+Total bead numbers N = 64.
 
-won/w0 = 1.0
+Total chain length L = (N-1)*r_0
+
+\omega_{on}/\omega_{0} = 1.0, \sigma = 1.0
 
 
