@@ -9,7 +9,7 @@ Amir Shee,‡ Nisha Gupta, Abhishek Chaudhuri, and Debasish Chaudhuri
 
 We kept the total equilibrium chain length ( L = (N-1)*r_0 ) constant for all our simulations.
 
-The sub folder "ens#" >>> '#' denotes 0, 1, ..., 19 for 20 different initial conditions. Here we collected 20 different time series for 20 different initial conditions. 
+The sub folder "ens#" >>> '#' denotes 0, 1, ..., 19 for 20 different initial conditions. 20 different time series for 20 different initial conditions. 
 
 The file name "turn_number_time_ens#_v$.d.gz" contains single column data set of turn number with time gap 0.000016.
 
